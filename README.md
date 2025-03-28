@@ -16,7 +16,7 @@ Movies Hub is a modern React-based movie website that allows users to browse mov
 
 1-Clone the repository:
 
-git clone https://github.com/your-username/movies-hub.git
+git clone https://github.com/EsraaAbas/movies-website
 
 cd movies-website
 
