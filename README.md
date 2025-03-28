@@ -1,12 +1,24 @@
-# React + Vite
+Movies Hub 🎬 | React Movie Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movies Hub is a modern React-based movie website that allows users to browse movies from an external API, log in to their accounts, and add movies to their favorites list.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Browse Movies – Fetch and display movies dynamically from an API.
 
-## Expanding the ESLint configuration
+✅ Search Functionality – Find movies easily with a search bar.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ User Authentication – Log in and manage a personalized experience.
+
+✅ Favorites List – Save favorite movies for quick access.
+
+📌 How to Run Locally
+1-Clone the repository:
+git clone https://github.com/your-username/movies-hub.git
+cd movies-website
+
+2-Install dependencies:
+npm install
+3-Start the development server:
+npm start
+4-Open http://localhost:3000 in your browser.
