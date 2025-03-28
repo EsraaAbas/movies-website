@@ -12,6 +12,13 @@ Movies Hub is a modern React-based movie website that allows users to browse mov
 
 ✅ Favorites List – Save favorite movies for quick access.
 
+![Movies Website Preview](src/assets/home.png)
+
+![Movies Website Preview](src/assets/fav.png)
+
+![Movies Website Preview](src/assets/signin.png)
+
+
 📌 How to Run Locally
 
 1-Clone the repository:
@@ -29,3 +36,4 @@ npm install
 npm start
 
 4-Open http://localhost:3000 in your browser.
+
